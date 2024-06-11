@@ -8,7 +8,7 @@ import winsound
 #creating a winodw
 window = Tk()
 window.geometry('600x600')#giving size
-window.title('PythonGeeks')#giving title
+window.title('Python')#giving title
 Label(window, text="Countdown Clock and Timer", font=('Calibri 15')).pack(pady=20)
 
 #to print current time
